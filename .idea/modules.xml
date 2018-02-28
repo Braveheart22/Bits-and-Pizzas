@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bits-and-Pizzas.iml" filepath="$PROJECT_DIR$/Bits-and-Pizzas.iml" />
-      <module fileurl="file://F:\Users\John\AndroidStudio\Bits-and-Pizzas\BitsandPizzas2.iml" filepath="F:\Users\John\AndroidStudio\Bits-and-Pizzas\BitsandPizzas2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://F:\Users\John\AndroidStudio\Bits-and-Pizzas\app\app.iml" filepath="F:\Users\John\AndroidStudio\Bits-and-Pizzas\app\app.iml" />
     </modules>
   </component>
 </project>
