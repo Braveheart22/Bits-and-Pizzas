@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
                 case 2:
                     return getResources().getText(R.string.pasta_tab);
                 case 3:
-                    return getResources().getText(R.string.home_tab);
+                    return getResources().getText(R.string.store_tab);
             }
             return null;
         }
