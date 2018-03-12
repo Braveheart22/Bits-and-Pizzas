@@ -38,4 +38,6 @@
     <string name="order_details_hint">Please enter your order</string>
 
     <string name="content_description">Content Description</string>
+
+    <string name="pizza_image">Pizza Image</string>
 </resources>
